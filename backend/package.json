@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is backend with react as frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "sonu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "axois": "^0.0.1-security",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
